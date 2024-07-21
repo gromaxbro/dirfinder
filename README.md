@@ -1,5 +1,5 @@
 # dirfinder
 
-simple dir finder to hind hidden directories
+simple dir finder to find hidden directories
 
 **support  proxy**
